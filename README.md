@@ -76,7 +76,7 @@ This dashboard was built to answer questions such as:
 ## Dashboard Pages
 
 ### Executive Overview
-
+![exec-overview](screenshots/exec-overview.png)
 High-level operational and financial performance summary.
 
 ### Patient Analytics
