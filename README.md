@@ -80,19 +80,15 @@ This dashboard was built to answer questions such as:
 High-level operational and financial performance summary.
 
 ### Patient Analytics
-
+![patients](screenshots/patients.png)
 Patient acquisition, retention, appointment frequency, and demographic trends.
 
-### Referral Performance
-
-Analysis of referral channels and patient acquisition sources.
-
 ### Provider Performance
-
+![providers](screenshots/providers.png)
 Provider productivity, completed appointments, and revenue generation.
 
 ### Insurance & Revenue
-
+![claims](screenshots/claims.png)
 Revenue trends and payer mix analysis.
 
 ---
